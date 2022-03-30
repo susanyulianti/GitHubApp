@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/GitHubApp/app/src/main/res/drawable/ic_favorite_black.xml" value="0.122" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/GitHubApp/app/src/main/res/drawable/ic_name.xml" value="0.1065" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/GitHubApp/app/src/main/res/drawable/ic_setting.xml" value="0.122" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/GitHubApp/app/src/main/res/drawable/ic_settings.xml" value="0.122" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/GitHubApp/app/src/main/res/drawable/toggle_fav.xml" value="0.1065" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/GitHubApp/app/src/main/res/layout/activity_detail_git_hub_account.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/GitHubApp/app/src/main/res/layout/activity_favourite_git_hub_account.xml" value="0.1796875" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/GitHubApp/app/src/main/res/layout/activity_launcher.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/GitHubApp/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/GitHubApp/app/src/main/res/layout/activity_setting_git_hub_app.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/GitHubApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.1796875" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/GitHubApp/app/src/main/res/layout/follow_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/GitHubApp/app/src/main/res/layout/item_row_account.xml" value="0.36069114470842334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/GitHubApp/app/src/main/res/menu/main_menu.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">GitHubApp</string>
+    <string name="github_username">"@githubuser"</string>
+    <string name="user_github">User Github</string>
+    <string name="photo">yeah! click me! I have a description</string>
+    <string name="splash_screen">GitHub User</string>
+    <string name="github_names">Github Names</string>
+    <string name="github_repo">100 Repository</string>
+    <string name="github_company">company</string>
+    <string name="github_location">Location</string>
+    <string name="github_followers">100 Followers</string>
+    <string name="github_following">5 Following</string>
+    <string name="search_icon">Search</string>
+    <string name="tab1">followers</string>
+    <string name="tab2">following</string>
+    <string name="favorite">Favorite User</string>
+    <string name="search">Search…</string>
+    <string name="change_theme">Change Theme</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="launcher">Welcome to GitHub! Explore various experiences in saving your work, and find connections that are very useful for you</string>
+    <string name="button">Start</string>
+    <string name="img">Click me! I Have Description</string>
+
+    <string name="account">Account Setting</string>
+    <string name="profile">Public profile</string>
+    <string name="appearance">Appearance</string>
+    <string name="accessibility">Accessibility</string>
+    <string name="notif">Notification</string>
+
+    <string name="code">Code, Planning, and Automation</string>
+    <string name="repo">Repositories</string>
+    <string name="pack">Package</string>
+    <string name="pages">Pages</string>
+    <string name="save">Saved replies</string>
+
+    <string name="security">Security</string>
+    <string name="csa">Code security and analys</string>
+
+    <string name="intergration">Integration</string>
+    <string name="schedule">Scheduled reminders</string>
+    <string name="theme">Switch Theme</string>
+
+    <string name="ds">Developer Settings</string>
+
+</resources>
